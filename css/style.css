@@ -1,0 +1,18 @@
+hr {
+	margin-top: 32px;
+	margin-bottom: 32px;
+	border-top: 1px solid #f14949;
+	width: 80%;
+}
+
+.m-2{
+	margin: 2rem;
+}
+
+canvas { 
+	padding: 10px;
+	min-height: 100px;
+}
+.title {
+	color: #575757;
+}
